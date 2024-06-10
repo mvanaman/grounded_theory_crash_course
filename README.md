@@ -1,1 +1,7 @@
-# qual_crash_course
+# Qual Crash Course
+
+| Date | Topic | Description | Material |
+|------|-------|-------------|----------|
+|      |       |             |          |
+|      |       |             |          |
+|      |       |             |          |
